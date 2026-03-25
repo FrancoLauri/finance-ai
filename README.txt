@@ -3,9 +3,10 @@
 Simple backend to track expenses using natural language input.
 
 ## Features
-- Add expenses via API
-- Parse natural language ("15k supermercado")
-- Confirmation flow (pending → confirmed)
+
+- Natural language expense input
+- Confirmation flow
+- Interactive dashboard (filters, charts, totals)
 
 ## Tech
 - FastAPI
